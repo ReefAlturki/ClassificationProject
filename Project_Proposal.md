@@ -29,11 +29,12 @@ The proposed project will help clients to double check the cut grade so they don
 
 I will use diamond dataset which is obtained from Kaggle, can be found [here](https://www.kaggle.com/shrutisaxena0617/exploring-diamonds-dataset/data)
 
-**What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
+**What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?**
 
 The prediction will depend on various features such as the depth, length, width, weight, color, price, clarity.
 
-** If modeling, what will you predict as your target?
+**If modeling, what will you predict as your target?**
+
 The target variable is the cut grade variable which contains the values (Fair, Good, Very Good, Premium, Ideal).
 
 
@@ -46,5 +47,6 @@ The following libraries will be used in order to successfully complete the proje
 * Matplotlib to plot visulalizations
 * Sklearn to build various classification models.
 
-** Are you planning in advance to need or use additional tools beyond those required?
+**Are you planning in advance to need or use additional tools beyond those required?**
+
 I might use production tools to build a small app that predicts the diamond cut grade.
