@@ -7,7 +7,7 @@ Diamond Cut doesn’t refer to the shape of the diamond, such as an Oval or Pear
 A well cut diamond is luminous and reflects white and colored light back to your eyes. A poorly cut diamond is dull instead of brilliant. 
 GIA diamond cutting grades for Round diamonds range from Excellent to Poor. 
 The reality is that 55% of all Round diamonds receive an excellent cut grade from the GIA. About 25-30% of these “excellent” diamonds are not recommended. 
-The Diamond Pro claimed that their consultants review thousands of Excellent cut diamonds and find bad specs (depth, table and angles). 
+[The Diamond Pro](https://www.diamonds.pro/) claimed that their consultants review thousands of Excellent cut diamonds and find bad specs (depth, table and angles). 
 
 
 ## Question/need:
