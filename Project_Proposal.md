@@ -50,3 +50,8 @@ The following libraries will be used in order to successfully complete the proje
 **Are you planning in advance to need or use additional tools beyond those required?**
 
 I might use production tools to build a small app that predicts the diamond cut grade.
+
+## MVP Goal:
+**What would a minimum viable product (MVP) look like for this project?**
+
+The expected outcome of this project is a prediction of the diamond cut grade. A small app that predicts the cut of the diamond and a presentation.
