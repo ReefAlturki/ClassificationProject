@@ -45,6 +45,7 @@ The following libraries will be used in order to successfully complete the proje
 * Numpy and pandas to perfom data manipulations.
 * Matplotlib to plot visulalizations
 * Sklearn to build various classification models.
+* Streamlit tool to build a simple web page.
 
 **Are you planning in advance to need or use additional tools beyond those required?**
 
