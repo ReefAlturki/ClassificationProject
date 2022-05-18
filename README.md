@@ -7,7 +7,6 @@ This project aims to predict the cut quality of the diamond, which describes how
 
 ## Table of contents
 * [Project Proposal](https://github.com/ReefSA/Classification/blob/main/Project_Proposal.md)
-* [Project MVP](https://github.com/ReefSA/Classification/blob/main/MVP.ipynb)
 * [Project Code](https://github.com/ReefSA/Classification/blob/main/Classification_project.ipynb)
 * [Presentation](https://github.com/ReefSA/Classification/blob/main/ClassificationPresentation.pdf)
 
